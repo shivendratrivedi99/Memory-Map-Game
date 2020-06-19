@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guess \'em Up</string>
+    <string name="guess_em_up">Guess \'em Up</string>
+    <string name="score_0">Score:0</string>
+    <string name="moves_0">Moves:0</string>
+    <string name="tap_on_blocks_to_reveal_colors_behind_them_nmatch_same_color_to_progress">Tap on blocks to reveal colors behind them Match same color to progress</string>
+    <string name="how_to_play">How to play</string>
+</resources>
